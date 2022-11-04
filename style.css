@@ -64,7 +64,7 @@ nav ul {
 
 nav ul li a {
    display: block;
-   padding: 2rem;
+   padding: 1.8rem;
 }
 
 nav ul li a:hover,
@@ -93,7 +93,7 @@ nav ul li a.current {
 
 #title h1 {
    font-size: 7vw;
-   letter-spacing: 1.5rem;
+   letter-spacing: 1.4rem;
    margin: 3rem;
    padding-bottom: 5rem;
    color: #58d4ba;
